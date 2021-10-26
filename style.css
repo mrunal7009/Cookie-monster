@@ -1,0 +1,24 @@
+body {
+background:url('images/cookie-monster.jpg');
+    background-position: center;
+background-attachment: fixed;
+background-size:cover;
+}
+
+#container {
+background:black;
+width: 424px;
+color:white;
+padding: 30px;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    background:#75c1f6;
+    border-radius: 5px;
+    padding: 10px;
+    colour:white;
+}
